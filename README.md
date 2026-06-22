@@ -24,16 +24,28 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 ## Current features
 
 - Full support for synced lyrics
-  - Interactive UI for reading and jumping between lyric lines
-  - Swipe down on the seek bar while playing to jump between lyric lines
+  - Interactive lyrics UI
+  - Swipe down on the seek bar to jump between lyric lines
   - LRCLib support for songs without lyrics on your server
 - Queue system with song reordering
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
 - Lossless audio streaming
+- Scrobbling to server
 - Transcoding settings
 - AirPlay 2 support
 - Gapless playback
 
+## Planned features
+
+- Shuffle & repeat modes
+- Search & filtering
+- Downloading for offline playback
+- Playlist management
+- Siri & Spotlight integration
+- Recommendations
+- macOS & tvOS apps
+- Support for more music servers
+
 ## Issues & feedback
 
-Found a bug, or have feedback or a feature request? Please [open an issue](https://github.com/HazemAM/mezzo-tracker/issues/new/choose)!
+Found a bug, or have feedback or a feature request? Please [open an issue](https://github.com/HazemAM/mezzo-tracker/issues/new/choose).
