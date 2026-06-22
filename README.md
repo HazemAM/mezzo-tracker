@@ -1,7 +1,9 @@
 # Mezzo
 
-Mezzo is a music player app built for self-hosted music servers.
+Mezzo is an music player app built for self-hosted music servers, currently available for iPhone/iOS.
 
-The app is currently available to test through TestFlight.
+The app is currently available to test through TestFlight: [**Join TestFlight testing!**](https://testflight.apple.com/join/Ub8M3z6A)
 
-If you encounter any issues or if you have feedback or feature requests, please submit them by [**opening an issue**](https://github.com/HazemAM/mezzo-tracker/issues/new/choose).
+### Issues & feedback
+
+If you encounter any issues or if you have feedback or feature requests, please submit them by [opening an issue](https://github.com/HazemAM/mezzo-tracker/issues/new/choose).
