@@ -12,7 +12,9 @@
 
 # Mezzo
 
-Mezzo is a music player for self-hosted music servers, currently available on iPhone.
+Mezzo is a music player for self-hosted music servers.
+
+Currently available for iPhone, with support for Navidrome and other Subsonic-compatible servers.
 
 > [!TIP]
 > The app is in active development, and is currently available to test through TestFlight.
