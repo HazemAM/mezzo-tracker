@@ -19,6 +19,19 @@ Mezzo is a music player for self-hosted music servers, currently available on iP
 >
 > 🔷 [**Join TestFlight to test Mezzo!**](https://testflight.apple.com/join/Ub8M3z6A)
 
-### Issues & feedback
+## Current features
+
+- Full support for synced lyrics
+  - Interactive UI for reading and jumping between lyric lines
+  - Swipe down on the seek bar while playing to jump between lyric lines
+  - LRCLib support for songs without lyrics on your server
+- Queue system with song reordering
+  - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
+- Lossless audio streaming
+- Transcoding settings
+- AirPlay 2 support
+- Gapless playback
+
+## Issues & feedback
 
 Found a bug, or have feedback or a feature request? Please [open an issue](https://github.com/HazemAM/mezzo-tracker/issues/new/choose)!
