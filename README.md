@@ -14,10 +14,10 @@
 
 Mezzo is a music player for self-hosted music servers, currently available on iPhone.
 
-> [!NOTE]
+> [!TIP]
 > The app is in active development, and is currently available to test through TestFlight.
 >
-> [**Join TestFlight to test Mezzo!**](https://testflight.apple.com/join/Ub8M3z6A)
+> 🔷 [**Join TestFlight to test Mezzo!**](https://testflight.apple.com/join/Ub8M3z6A)
 
 ### Issues & feedback
 
