@@ -21,6 +21,38 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 >
 > 🔷 [**Join TestFlight to test Mezzo!**](https://testflight.apple.com/join/Ub8M3z6A)
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/1.jpg">
+        <img src="assets/screenshots/1.jpg" width="200" alt="Screenshot 1">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/2.jpg">
+        <img src="assets/screenshots/2.jpg" width="200" alt="Screenshot 2">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/3.jpg">
+        <img src="assets/screenshots/3.jpg" width="200" alt="Screenshot 3">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/4.jpg">
+        <img src="assets/screenshots/4.jpg" width="200" alt="Screenshot 4">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/5.jpg">
+        <img src="assets/screenshots/5.jpg" width="200" alt="Screenshot 5">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Current features
 
 - Full support for synced lyrics
