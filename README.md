@@ -66,6 +66,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Transcoding settings
 - AirPlay 2 support
 - Gapless playback
+- Light & dark mode support
 
 ## Planned features
 
