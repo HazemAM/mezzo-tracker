@@ -26,8 +26,8 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 <table>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/1.jpg">
-        <img src="assets/screenshots/1.jpg" width="200" alt="Screenshot 1">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/1b.jpg">
+        <img src="assets/screenshots/1b.jpg" width="200" alt="Screenshot 1">
       </a>
     </td>
     <td align="center">
