@@ -66,7 +66,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
 - Lossless audio streaming
-- Scrobbling to server
+- Scrobbling to server, with support for `playbackReport` extension
 - Transcoding settings
 - AirPlay 2 support
 - Gapless playback
