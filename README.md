@@ -55,27 +55,28 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Current features
 
-- Full support for synced lyrics
+- Full synced lyrics support
+  - Karaoke lyrics with word-level highlighting & visual effects
+  - External sources support for songs without lyrics on your server
   - Interactive lyrics UI
   - Swipe down on the seek bar to jump between lyric lines
-  - LRCLib support for songs without lyrics on your server
 - Queue system
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
   - Reorder songs in the queue
 - Search
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
-- Lossless audio streaming
 - Scrobbling to server, with support for `playbackReport` extension
+- Lossless audio streaming
 - Transcoding settings
 - AirPlay 2 support
 - Gapless playback
 - Caching for songs
-- Light & dark mode support
+- Dark mode & light mode support
 
 ## Planned features
 
-- Shuffle & repeat modes
+- Shuffle
 - Downloading for offline playback
 - Playlist management
 - Filtering in library
