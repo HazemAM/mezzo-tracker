@@ -85,9 +85,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - macOS & tvOS apps
 - Support for more music servers
 
+> [!TIP]
+> Want to see what’s being added in every update? Visit [Releases](https://github.com/HazemAM/mezzo-tracker/releases).
+
 ## Issues & feedback
 
 Found a bug, or have feedback or a feature request? Please [open an issue](https://github.com/HazemAM/mezzo-tracker/issues/new/choose).
-
-> [!TIP]
-> Want to see what’s being added in every update? Visit [Releases](https://github.com/HazemAM/mezzo-tracker/releases).
