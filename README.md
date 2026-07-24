@@ -26,8 +26,13 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 <table>
   <tr>
     <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/0.jpg">
+        <img src="assets/screenshots/0.jpg" width="200" alt="Screenshot 0">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/1b.jpg">
-        <img src="assets/screenshots/1b.jpg" width="200" alt="Screenshot 1">
+        <img src="assets/screenshots/1b.jpg" width="200" alt="Screenshot 1b">
       </a>
     </td>
     <td align="center">
@@ -45,9 +50,16 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
         <img src="assets/screenshots/4.jpg" width="200" alt="Screenshot 4">
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/5.jpg">
         <img src="assets/screenshots/5.jpg" width="200" alt="Screenshot 5">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/6.jpg">
+        <img src="assets/screenshots/6.jpg" width="200" alt="Screenshot 6">
       </a>
     </td>
   </tr>
