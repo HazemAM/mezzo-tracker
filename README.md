@@ -83,12 +83,12 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Transcoding settings
 - AirPlay 2 support
 - Gapless playback
+- Shuffle & repeat modes
 - Caching for songs
 - Dark mode & light mode support
 
 ## Planned features
 
-- Shuffle
 - Downloading for offline playback
 - Playlist management
 - Filtering in library
