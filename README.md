@@ -78,6 +78,10 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Search
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
+- Similar music
+  - Autoplay: Keep playing similar music after your queue ends
+  - Song Radio: Sarting a radio station from any song
+  - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI), to get better matching music similarity
 - Scrobbling to server, with support for `playbackReport` extension
 - Lossless audio streaming
 - Transcoding settings
