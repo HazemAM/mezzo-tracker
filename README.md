@@ -72,21 +72,24 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - External sources support for songs without lyrics on your server
   - Interactive lyrics UI
   - Swipe down on the seek bar to jump between lyric lines
-- Queue system
-  - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
-  - Reorder songs in the queue
-- Search
-  - Universal search across your entire library, with a top result to jump to
-  - Search only in parts of your library, or search directly in a playlist or album
-- Similar music
-  - Autoplay: Keep playing similar music after your queue ends
-  - Song Radio: Start a radio station from any song
-  - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI), to get better matching music similarity
-- Scrobbling to server, with support for `playbackReport` extension
 - Audio quality
   - Lossless and original-quality streaming
   - Separate quality and bitrate settings for Wi-Fi and mobile data
   - Smart Transcoding setting chooses the best quality based on factors like available audio cache, your network, your desired bitrate, etc.
+- Similar music
+  - Autoplay: Keep playing similar music after your queue ends
+  - Song Radio: Start a radio station from any song
+  - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI), to get better matching music similarity
+- Queue system
+  - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
+  - Reorder songs in the queue
+- Playlist management
+  - Add songs to one or multiple playlists, with duplicate song detection
+  - Remove songs directly by swiping on them
+- Search
+  - Universal search across your entire library, with a top result to jump to
+  - Search only in parts of your library, or search directly in a playlist or album
+- Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling
 - Album editorial notes, with text formatting support (e.g. bold, italic)
   - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
 - AirPlay 2 support
@@ -97,7 +100,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 ## Planned features
 
 - Downloading for offline playback
-- Playlist management
+- Creating new playlists
 - Filtering in library
 - Siri & Spotlight integration
 - Recommendations
