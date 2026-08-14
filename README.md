@@ -80,15 +80,18 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Search only in parts of your library, or search directly in a playlist or album
 - Similar music
   - Autoplay: Keep playing similar music after your queue ends
-  - Song Radio: Sarting a radio station from any song
+  - Song Radio: Start a radio station from any song
   - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI), to get better matching music similarity
 - Scrobbling to server, with support for `playbackReport` extension
-- Lossless audio streaming
-- Transcoding settings
+- Audio quality
+  - Lossless and original-quality streaming
+  - Separate quality and bitrate settings for Wi-Fi and mobile data
+  - Smart Transcoding setting chooses the best quality based on factors like available audio cache, your network, your desired bitrate, etc.
+- Album editorial notes, with text formatting support (e.g. bold, italic)
+  - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
 - AirPlay 2 support
 - Gapless playback
 - Shuffle & repeat modes
-- Caching for songs
 - Dark mode & light mode support
 
 ## Planned features
