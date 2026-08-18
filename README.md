@@ -79,7 +79,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Similar music
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
-  - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI), to get better matching music similarity
+  - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin), to get better matching music similarity
 - Queue system
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
   - Reorder songs in the queue
