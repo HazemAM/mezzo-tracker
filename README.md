@@ -30,7 +30,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
         <img src="assets/videos/lyrics.jpg" width="200" alt="Synced Lyrics video preview">
       </a>
       <br>
-      <a href="https://github.com/user-attachments/assets/83da9384-abbe-4e6b-9017-fa5931e6bc89">Synced Lyrics</a>
+      Synced Lyrics
     </td>
   </tr>
 </table>
