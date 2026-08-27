@@ -21,45 +21,52 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 >
 > 🔷 [**Join TestFlight to test Mezzo!**](https://testflight.apple.com/join/Ub8M3z6A)
 
+## Videos
+
+<figure align="center">
+  <video controls poster="videos/lyrics.jpg" width="200" preload="auto">
+    <source
+      src="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/videos/lyrics.mp4"
+      type="video/mp4">
+    <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/videos/lyrics.mp4">Play the lyrics video</a>
+  </video>
+  <figcaption>Synced Lyrics</figcaption>
+</figure>
+
 ## Screenshots
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/0.jpg">
-        <img src="assets/screenshots/0.jpg" width="200" alt="Screenshot 0">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/home.jpg">
+        <img src="assets/screenshots/home.jpg" width="200" alt="Mezzo home screen">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/1b.jpg">
-        <img src="assets/screenshots/1b.jpg" width="200" alt="Screenshot 1b">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/album-flower-boy.jpg">
+        <img src="assets/screenshots/album-flower-boy.jpg" width="200" alt="Flower Boy album screen">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/2.jpg">
-        <img src="assets/screenshots/2.jpg" width="200" alt="Screenshot 2">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/now-playing.jpg">
+        <img src="assets/screenshots/now-playing.jpg" width="200" alt="Now Playing screen">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/3.jpg">
-        <img src="assets/screenshots/3.jpg" width="200" alt="Screenshot 3">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/4.jpg">
-        <img src="assets/screenshots/4.jpg" width="200" alt="Screenshot 4">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/lyrics-seek-bar.jpg">
+        <img src="assets/screenshots/lyrics-seek-bar.jpg" width="200" alt="Interactive lyrics seek bar">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/5.jpg">
-        <img src="assets/screenshots/5.jpg" width="200" alt="Screenshot 5">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/queue.jpg">
+        <img src="assets/screenshots/queue.jpg" width="200" alt="Playback queue">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/6.jpg">
-        <img src="assets/screenshots/6.jpg" width="200" alt="Screenshot 6">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/artist.jpg">
+        <img src="assets/screenshots/artist.jpg" width="200" alt="Artist screen">
       </a>
     </td>
   </tr>
