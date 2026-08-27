@@ -23,15 +23,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Videos
 
-<figure align="center">
-  <video controls poster="videos/lyrics.jpg" width="200" preload="auto">
-    <source
-      src="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/videos/lyrics.mp4"
-      type="video/mp4">
-    <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/videos/lyrics.mp4">Play the lyrics video</a>
-  </video>
-  <figcaption>Synced Lyrics</figcaption>
-</figure>
+https://github.com/user-attachments/assets/83da9384-abbe-4e6b-9017-fa5931e6bc89
+
+<p align="center">Synced Lyrics</p>
 
 ## Screenshots
 
