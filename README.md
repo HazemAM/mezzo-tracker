@@ -23,9 +23,19 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Videos
 
-https://github.com/user-attachments/assets/83da9384-abbe-4e6b-9017-fa5931e6bc89
-
-<p align="center">Synced Lyrics</p>
+<table>
+  <tr>
+    <td align="center">
+      <video
+        src="https://github.com/user-attachments/assets/83da9384-abbe-4e6b-9017-fa5931e6bc89"
+        controls
+        width="200">
+      </video>
+      <br>
+      <sub>Synced Lyrics</sub>
+    </td>
+  </tr>
+</table>
 
 ## Screenshots
 
