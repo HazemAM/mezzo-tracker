@@ -26,7 +26,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/user-attachments/assets/83da9384-abbe-4e6b-9017-fa5931e6bc89">
+      <a href="https://github.com/user-attachments/assets/a73b576b-c572-4fbc-aae8-9fdb05d97b29">
         <img src="assets/videos/lyrics.jpg" width="200" alt="Synced Lyrics video preview">
       </a>
       <br>
