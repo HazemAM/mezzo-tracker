@@ -89,6 +89,10 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
   - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin), to get better matching music similarity
+- Artist pages
+  - Albums organized by release type
+  - “Appears On” section for albums where artist is featured on, if you have [`ArtistParticipations`](https://www.navidrome.org/docs/usage/configuration/options/#opt-subsonic-artistparticipations) setting enabled
+  - “Similar Artists” section
 - Queue system
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
   - Reorder songs in the queue
@@ -124,7 +128,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [x] Search
 
 > [!TIP]
-> Want to see what’s being added in every update? Visit [Releases](https://github.com/HazemAM/mezzo-tracker/releases).
+> Want to see what’s being added in every update? Visit [**Releases**](https://github.com/HazemAM/mezzo-tracker/releases).
 
 ## Long-term roadmap
 
