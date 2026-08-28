@@ -123,14 +123,14 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [x] Shuffle & repeat modes
 - [x] Search
 
+> [!TIP]
+> Want to see what’s being added in every update? Visit [Releases](https://github.com/HazemAM/mezzo-tracker/releases).
+
 ## Long-term roadmap
 
 - macOS app
 - tvOS app
 - Support for more music servers
-
-> [!TIP]
-> Want to see what’s being added in every update? Visit [Releases](https://github.com/HazemAM/mezzo-tracker/releases).
 
 ## Issues & feedback
 
