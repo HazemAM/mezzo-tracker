@@ -101,6 +101,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling
 - Album editorial notes, with text formatting support (e.g. bold, italic)
   - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
+- Library browsing
+  - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
+  - Filter by favorites with search and shuffle support
 - AirPlay 2 support
 - Gapless playback
 - Shuffle & repeat modes
@@ -110,8 +113,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 - Downloading for offline playback
 - Creating new playlists
-- Filtering in library
-- Siri & Spotlight integration
+- Animated album artworks
+- Siri integration
+- Spotlight integration
 - Recommendations
 - macOS & tvOS apps
 - Support for more music servers
