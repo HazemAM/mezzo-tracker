@@ -111,13 +111,22 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Planned features
 
-- Downloading for offline playback
-- Creating new playlists
-- Animated album artworks
-- Siri integration
-- Spotlight integration
-- Recommendations
-- macOS & tvOS apps
+- [ ] Downloading for offline playback
+- [ ] Creating new playlists
+- [ ] Animated album artworks
+- [ ] Siri integration
+- [ ] Spotlight integration
+- [ ] Recommendations
+
+- [x] Filtering in library
+- [x] Playlist management
+- [x] Shuffle & repeat modes
+- [x] Search
+
+## Long-term roadmap
+
+- macOS app
+- tvOS app
 - Support for more music servers
 
 > [!TIP]
