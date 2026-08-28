@@ -89,6 +89,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
   - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin), to get better matching music similarity
+- Search
+  - Universal search across your entire library, with a top result to jump to
+  - Search only in parts of your library, or search directly in a playlist or album
 - Artist pages
   - Albums organized by release type
   - “Appears On” section for albums where artist is featured on, if you have [`ArtistParticipations`](https://www.navidrome.org/docs/usage/configuration/options/#opt-subsonic-artistparticipations) setting enabled
@@ -99,9 +102,6 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Playlist management
   - Add songs to one or multiple playlists, with duplicate song detection
   - Remove songs directly by swiping on them
-- Search
-  - Universal search across your entire library, with a top result to jump to
-  - Search only in parts of your library, or search directly in a playlist or album
 - Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling
 - Album editorial notes, with text formatting support (e.g. bold, italic)
   - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
