@@ -118,6 +118,8 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [ ] Downloading for offline playback
 - [ ] Creating new playlists
 - [ ] Animated album artworks
+- [ ] ReplayGain support
+- [ ] Storage management
 - [ ] Siri integration
 - [ ] Spotlight integration
 - [ ] Recommendations
