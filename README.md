@@ -32,6 +32,13 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
       <br>
       Synced Lyrics
     </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/195926c6-b056-4780-8993-fb5cd2f888ad">
+        <img src="assets/videos/offline-mode.jpg" width="200" alt="Offline Mode video preview">
+      </a>
+      <br>
+      Offline Mode
+    </td>
   </tr>
 </table>
 
