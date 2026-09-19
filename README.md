@@ -81,6 +81,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - External sources support for songs without lyrics on your server
   - Interactive lyrics UI
   - Swipe down on the seek bar to jump between lyric lines
+  - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
 - Audio quality
   - Lossless and original-quality streaming
   - Separate quality and bitrate settings for Wi-Fi and mobile data
@@ -89,13 +90,16 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
   - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin), to get better matching music similarity
+- Home
+  - Personalized shelves for recently played, recently added, frequently played, and random music
+  - Quick access to favorite albums, songs, and artists
 - Search
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
 - Artist pages
   - Albums organized by release type
-  - “Appears On” section for albums where artist is featured on, if you have [`ArtistParticipations`](https://www.navidrome.org/docs/usage/configuration/options/#opt-subsonic-artistparticipations) setting enabled
-  - “Similar Artists” section
+  - Appears On section for albums where artist is featured on, if you have [`ArtistParticipations`](https://www.navidrome.org/docs/usage/configuration/options/#opt-subsonic-artistparticipations) setting enabled
+  - Similar Artists section
 - Queue system
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
   - Reorder songs in the queue
@@ -108,6 +112,20 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Library browsing
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
+- Downloads
+  - Download individual songs or complete albums and follow their progress in place
+  - Choose a separate download quality in Settings
+- Offline Mode
+  - See only your downloads, with Offline Mode activating automatically when you’re offline
+  - Turn it on manually from Home or Library when you want to minimize data usage
+  - Badges in Home, Library, and artist pages let you know when it’s active
+  - Offline playback
+    - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
+    - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
+    - Every artist credited on a downloaded song or album remains browsable, including their biographies, Favorite Songs, Appears On and Similar Artists sections
+  - Offline Library
+    - Browse and locally search downloaded songs, albums, artists, and genres
+    - Filter your downloadeds by favorites, sort the results, and shuffle across your full downloaded collection
 - AirPlay 2 support
 - Gapless playback
 - Shuffle & repeat modes
@@ -115,16 +133,17 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Planned features
 
-- [ ] Downloading for offline playback
 - [ ] Creating new playlists
 - [ ] Animated album artworks
+- [ ] CarPlay support
 - [ ] ReplayGain support
 - [ ] Storage management
 - [ ] Siri integration
 - [ ] Spotlight integration
 - [ ] Recommendations
 
-- [x] Filtering in library
+- [x] Downloading & Offline Mode
+- [x] Filtering & sorting in library
 - [x] Playlist management
 - [x] Shuffle & repeat modes
 - [x] Search
