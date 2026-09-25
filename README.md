@@ -103,9 +103,11 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Search
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
+  - Search is fully supported for downloaded songs, albums, artists, playlists, and genres in Offline Mode
+  - Supports matching for stylized names, alternate names, and multi-language titles
 - Artist pages
   - Albums organized by release type
-  - Appears On section for albums where artist is featured on, if you have [`ArtistParticipations`](https://www.navidrome.org/docs/usage/configuration/options/#opt-subsonic-artistparticipations) setting enabled
+  - Appears On section for albums where the artist is featured
   - Similar Artists section
 - Queue system
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
@@ -120,19 +122,20 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
 - Downloads
-  - Download individual songs or complete albums and follow their progress in place
+  - Download individual songs, albums, and playlists, and follow their progress in place
+  - Downloads are periodically refreshed, updating automatically on Wi-Fi
   - Choose a separate download quality in Settings
 - Offline Mode
   - See only your downloads, with Offline Mode activating automatically when you’re offline
-  - Turn it on manually from Home or Library when you want to minimize data usage
+  - Turn it on manually from Home, Library, or Search when you want to minimize data usage
   - Badges in Home, Library, and artist pages let you know when it’s active
   - Offline playback
     - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
     - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
     - Every artist credited on a downloaded song or album remains browsable, including their biographies, Favorite Songs, Appears On and Similar Artists sections
   - Offline Library
-    - Browse and locally search downloaded songs, albums, artists, and genres
-    - Filter your downloadeds by favorites, sort the results, and shuffle across your full downloaded collection
+    - Browse and locally search downloaded songs, albums, artists, playlists, and genres
+    - Filter your downloads by favorites, sort the results, and shuffle across your full downloaded collection
 - AirPlay 2 support
 - Gapless playback
 - Shuffle & repeat modes
