@@ -33,6 +33,13 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
       Synced Lyrics
     </td>
     <td align="center">
+      <a href="https://github.com/user-attachments/assets/cd7485cc-7e95-412a-a88c-12010e471122">
+        <img src="assets/videos/animated-artworks.jpg" width="200" alt="Animated Artworks video preview">
+      </a>
+      <br>
+      Animated Artworks
+    </td>
+    <td align="center">
       <a href="https://github.com/user-attachments/assets/195926c6-b056-4780-8993-fb5cd2f888ad">
         <img src="assets/videos/offline-mode.jpg" width="200" alt="Offline Mode video preview">
       </a>
@@ -89,9 +96,13 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Interactive lyrics UI
   - Swipe down on the seek bar to jump between lyric lines
   - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
+- Animated artworks
+  - Animated covers for supported albums on album pages, in the player, and on the Lock Screen
+  - No special server setup is needed, animated artworks don’t need to be stored on your server
+  - To see animated artworks on the Lock Screen, tap the artwork to expand it
 - Audio quality
   - Lossless and original-quality streaming
-  - Separate quality and bitrate settings for Wi-Fi and mobile data
+  - Separate quality and bitrate settings for Wi-Fi, mobile data, and downloads
   - Smart Transcoding setting chooses the best quality based on factors like available audio cache, your network, your desired bitrate, etc.
 - Similar music
   - Autoplay: Keep playing similar music after your queue ends
@@ -117,7 +128,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Remove songs directly by swiping on them
 - Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling
 - Album editorial notes, with text formatting support (e.g. bold, italic)
-  - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
+    - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
 - Library browsing
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
@@ -128,7 +139,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Offline Mode
   - See only your downloads, with Offline Mode activating automatically when you’re offline
   - Turn it on manually from Home, Library, or Search when you want to minimize data usage
-  - Badges in Home, Library, and artist pages let you know when it’s active
+  - Badges in Home, Library, Search, and artist pages let you know when it’s active
   - Offline playback
     - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
     - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
@@ -144,7 +155,6 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 ## Planned features
 
 - [ ] Creating new playlists
-- [ ] Animated album artworks
 - [ ] CarPlay support
 - [ ] ReplayGain support
 - [ ] Storage management
@@ -152,6 +162,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] Animated artworks
 - [x] Downloading & Offline Mode
 - [x] Filtering & sorting in library
 - [x] Playlist management
