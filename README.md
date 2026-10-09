@@ -116,6 +116,25 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Search only in parts of your library, or search directly in a playlist or album
   - Search is fully supported for downloaded songs, albums, artists, playlists, and genres in Offline Mode
   - Supports matching for stylized names, alternate names, and multi-language titles
+- Downloads
+  - Download individual songs, albums, and playlists, and follow their progress in place
+  - Downloads are periodically refreshed, updating automatically on Wi-Fi
+  - Choose a separate download quality in Settings
+- Offline Mode
+  - See only your downloads, with Offline Mode activating automatically when you’re offline
+  - Turn it on manually from Home, Library, or Search when you want to minimize data usage
+  - Badges in Home, Library, Search, and artist pages let you know when it’s active
+  - Offline playback
+    - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
+    - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
+    - Every artist credited on a downloaded song or album remains browsable, including their biographies, Favorite Songs, Appears On and Similar Artists sections
+  - Offline Library
+    - Browse and locally search downloaded songs, albums, artists, playlists, and genres
+    - Filter your downloads by favorites, sort the results, and shuffle across your full downloaded collection
+- Siri & Shortcuts
+  - Lock Screen suggestions for recent listening sessions, including Favorites, Downloads, and Song Radio
+  - Ask Siri to play songs, albums, playlists, artists, and genres, shuffle your library, or start Song Radio
+  - “Shuffle Favorites” shortcut available through Siri, Shortcuts, and Spotlight
 - Artist pages
   - Albums organized by release type
   - Appears On section for albums where the artist is featured
@@ -132,21 +151,6 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - Library browsing
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
-- Downloads
-  - Download individual songs, albums, and playlists, and follow their progress in place
-  - Downloads are periodically refreshed, updating automatically on Wi-Fi
-  - Choose a separate download quality in Settings
-- Offline Mode
-  - See only your downloads, with Offline Mode activating automatically when you’re offline
-  - Turn it on manually from Home, Library, or Search when you want to minimize data usage
-  - Badges in Home, Library, Search, and artist pages let you know when it’s active
-  - Offline playback
-    - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
-    - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
-    - Every artist credited on a downloaded song or album remains browsable, including their biographies, Favorite Songs, Appears On and Similar Artists sections
-  - Offline Library
-    - Browse and locally search downloaded songs, albums, artists, playlists, and genres
-    - Filter your downloads by favorites, sort the results, and shuffle across your full downloaded collection
 - AirPlay 2 support
 - Gapless playback
 - Shuffle & repeat modes
@@ -158,10 +162,10 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [ ] CarPlay support
 - [ ] ReplayGain support
 - [ ] Storage management
-- [ ] Siri integration
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] Siri support
 - [x] Animated artworks
 - [x] Downloading & Offline Mode
 - [x] Filtering & sorting in library
