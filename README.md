@@ -104,6 +104,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Lossless and original-quality streaming
   - Separate quality and bitrate settings for Wi-Fi, mobile data, and downloads
   - Smart Transcoding setting chooses the best quality based on factors like available audio cache, your network, your desired bitrate, etc.
+- ReplayGain
+  - More consistent playback volume, with album adjustments for album playback and track adjustments for playlists and other contexts
+  - Uses ReplayGain metadata from your music server
 - Similar music
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
@@ -160,11 +163,11 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 - [ ] Creating new playlists
 - [ ] CarPlay support
-- [ ] ReplayGain support
 - [ ] Storage management
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] ReplayGain support
 - [x] Siri support
 - [x] Animated artworks
 - [x] Downloading & Offline Mode
