@@ -40,6 +40,15 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
       Animated Artworks
     </td>
     <td align="center">
+      <a href="https://github.com/user-attachments/assets/0ff559c8-e992-4e58-bb9a-20612700cb3e">
+        <img src="assets/videos/visualizer.jpg" width="200" alt="Visualizer video preview">
+      </a>
+      <br>
+      Visualizer
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/user-attachments/assets/195926c6-b056-4780-8993-fb5cd2f888ad">
         <img src="assets/videos/offline-mode.jpg" width="200" alt="Offline Mode video preview">
       </a>
@@ -100,6 +109,10 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Animated covers for supported albums on album pages, in the player, and on the Lock Screen
   - No special server setup is needed, animated artworks don’t need to be stored on your server
   - To see animated artworks on the Lock Screen, tap the artwork to expand it
+- Visualizer
+  - Instrumental breaks appear as a live visualizer in synced lyrics
+  - The visualizer is very accurate and responsive, allowing you to see hidden details in songs
+  - The visualizer also appears when no lyrics are available for a song
 - Audio quality
   - Lossless and original-quality streaming
   - Separate quality and bitrate settings for Wi-Fi, mobile data, and downloads
@@ -167,6 +180,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] Visualizer
 - [x] ReplayGain support
 - [x] Siri support
 - [x] Animated artworks
