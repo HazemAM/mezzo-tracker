@@ -99,87 +99,97 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Current features
 
-- Full synced lyrics support
-  - Karaoke lyrics with word-level highlighting & visual effects
+- **Lyrics: Full karaoke lyrics support**
+  - Karaoke lyrics with syllable-level highlighting & visual effects
   - External sources support for songs without lyrics on your server
   - Interactive lyrics UI
   - Swipe down on the seek bar to jump between lyric lines
-  - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
-- Animated artworks
+  - Lyrics are downloaded with their songs and remain available in Offline Mode, including karaoke lyrics when available
+- **Animated artworks**
   - Animated covers for supported albums on album pages, in the player, and on the Lock Screen
   - No special server setup is needed, animated artworks don’t need to be stored on your server
   - To see animated artworks on the Lock Screen, tap the artwork to expand it
-- Visualizer
+- **Visualizer**
   - Instrumental breaks appear as a live visualizer in synced lyrics
   - The visualizer is very accurate and responsive, allowing you to see hidden details in songs
   - The visualizer also appears when no lyrics are available for a song
-- Audio quality
+  - The currently playing song also shows a live visualizer across the app
+- **Themed pages**
+  - Artwork-inspired themed pages for albums, playlists, artists and in the player screen
+  - Different looks for Light and Dark modes
+- **Audio quality**
   - Lossless and original-quality streaming
   - Separate quality and bitrate settings for Wi-Fi, mobile data, and downloads
   - Smart Transcoding setting chooses the best quality based on factors like available audio cache, your network, your desired bitrate, etc.
-- ReplayGain
+- **ReplayGain**
   - More consistent playback volume, with album adjustments for album playback and track adjustments for playlists and other contexts
   - Uses ReplayGain metadata from your music server
-- Similar music
+- **Similar music**
   - Autoplay: Keep playing similar music after your queue ends
   - Song Radio: Start a radio station from any song
   - Support for sonic similarity plugins, including [AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin), to get better matching music similarity
-- Home
+- **Home**
   - Personalized shelves for recently played, recently added, frequently played, and random music
   - Quick access to favorite albums, songs, and artists
-- Search
+- **Search**
   - Universal search across your entire library, with a top result to jump to
   - Search only in parts of your library, or search directly in a playlist or album
   - Search is fully supported for downloaded songs, albums, artists, playlists, and genres in Offline Mode
   - Supports matching for stylized names, alternate names, and multi-language titles
-- Downloads
+- **Downloads**
   - Download individual songs, albums, and playlists, and follow their progress in place
   - Downloads are periodically refreshed, updating automatically on Wi-Fi
   - Choose a separate download quality in Settings
-- Offline Mode
+- **Offline Mode**
   - See only your downloads, with Offline Mode activating automatically when you’re offline
   - Turn it on manually from Home, Library, or Search when you want to minimize data usage
   - Badges in Home, Library, Search, and artist pages let you know when it’s active
   - Offline playback
-    - Lyrics are downloaded with their songs and remain available in Offline Mode, including word-level synced lyrics when available
+    - Lyrics are downloaded with their songs and remain available in Offline Mode, including karaoke lyrics when available
     - Albums remain fully browsable with their editorial notes and complete track lists, while unavailable songs appear dimmed
     - Every artist credited on a downloaded song or album remains browsable, including their biographies, Favorite Songs, Appears On and Similar Artists sections
   - Offline Library
     - Browse and locally search downloaded songs, albums, artists, playlists, and genres
     - Filter your downloads by favorites, sort the results, and shuffle across your full downloaded collection
-- Siri & Shortcuts
+- **Siri & Shortcuts**
   - Lock Screen suggestions for recent listening sessions, including Favorites, Downloads, and Song Radio
   - Ask Siri to play songs, albums, playlists, artists, and genres, shuffle your library, or start Song Radio
   - “Shuffle Favorites” shortcut available through Siri, Shortcuts, and Spotlight
-- Artist pages
+- **Artist pages**
   - Albums organized by release type
   - Appears On section for albums where the artist is featured
   - Similar Artists section
-- Queue system
+- **Queue system**
   - Swipe on a song anywhere to add it to the queue, swipe in the queue to remove it
   - Reorder songs in the queue
-- Playlist management
+- **Playlist management**
   - Add songs to one or multiple playlists, with duplicate song detection
   - Remove songs directly by swiping on them
-- Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling
-- Album editorial notes, with text formatting support (e.g. bold, italic)
-    - Available through compatible server plugins, including [Navidrome's official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
-- Library browsing
+- **Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling**
+- **Album editorial notes, with text formatting support (e.g. bold, italic)**
+    - Available through compatible server plugins, including [Navidrome’s official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
+- **Library browsing**
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
-- AirPlay 2 support
-- Gapless playback
-- Shuffle & repeat modes
-- Dark mode & light mode support
+- **Storage management**
+  - View breakdown of storage usage and clear cache from Settings
+  - Browse downloaded music or remove all downloads
+- **Dynamic Type**
+  - Text and layouts adapt to your preferred text size in iOS
+- **AirPlay 2 support**
+- **Gapless playback**
+- **Shuffle & repeat modes**
+- **Dark & Light mode support across the app**
 
 ## Planned features
 
 - [ ] Creating new playlists
 - [ ] CarPlay support
-- [ ] Storage management
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] Artwork themes
+- [x] Storage management
 - [x] Visualizer
 - [x] ReplayGain support
 - [x] Siri support
