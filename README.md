@@ -26,7 +26,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/user-attachments/assets/a73b576b-c572-4fbc-aae8-9fdb05d97b29">
+      <a href="https://github.com/user-attachments/assets/4cee7cdf-7937-4129-a8e3-ec6c3f2c21d8">
         <img src="assets/videos/lyrics.jpg" width="200" alt="Synced Lyrics video preview">
       </a>
       <br>
@@ -40,8 +40,8 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
       Animated Artworks
     </td>
     <td align="center">
-      <a href="https://github.com/user-attachments/assets/0ff559c8-e992-4e58-bb9a-20612700cb3e">
-        <img src="assets/videos/visualizer.jpg" width="200" alt="Visualizer video preview">
+      <a href="https://github.com/user-attachments/assets/80af29a7-f69a-45f3-ab2a-33e170abc903">
+        <img src="assets/videos/visualizer-instrumental.jpg" width="200" alt="Visualizer video preview">
       </a>
       <br>
       Visualizer
