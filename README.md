@@ -165,9 +165,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - **Playlist management**
   - Add songs to one or multiple playlists, with duplicate song detection
   - Remove songs directly by swiping on them
-- **Scrobbling to server, with support for `playbackReport` extension for accurate scrobbling**
-- **Album editorial notes, with text formatting support (e.g. bold, italic)**
+- **Album editorial notes**
     - Available through compatible server plugins, including [Navidrome’s official Apple Music plugin](https://github.com/navidrome/apple-music-plugin)
+    - Supports text formatting (e.g. bold, italic)
 - **Library browsing**
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
@@ -176,6 +176,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
   - Browse downloaded music or remove all downloads
 - **Dynamic Type**
   - Text and layouts adapt to your preferred text size in iOS
+- **Scrobbling to server**
 - **AirPlay 2 support**
 - **Gapless playback**
 - **Shuffle & repeat modes**
