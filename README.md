@@ -60,38 +60,55 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 
 ## Screenshots
 
+### Dark Mode
+
 <table>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/home.jpg">
-        <img src="assets/screenshots/home.jpg" width="200" alt="Mezzo home screen">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/dark/album-flower-boy.png">
+        <img src="assets/screenshots/dark/album-flower-boy.png" width="200" alt="Flower Boy album page in Dark Mode">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/album-flower-boy.jpg">
-        <img src="assets/screenshots/album-flower-boy.jpg" width="200" alt="Flower Boy album screen">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/dark/artist-mac-miller.png">
+        <img src="assets/screenshots/dark/artist-mac-miller.png" width="200" alt="Mac Miller artist page in Dark Mode">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/now-playing.jpg">
-        <img src="assets/screenshots/now-playing.jpg" width="200" alt="Now Playing screen">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/dark/player-enough.png">
+        <img src="assets/screenshots/dark/player-enough.png" width="200" alt="Enough in Now Playing with enlarged artwork in Dark Mode">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/lyrics-seek-bar.jpg">
-        <img src="assets/screenshots/lyrics-seek-bar.jpg" width="200" alt="Interactive lyrics seek bar">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/dark/search-aw.png">
+        <img src="assets/screenshots/dark/search-aw.png" width="200" alt="Universal Search for aw with the keyboard visible in Dark Mode">
       </a>
     </td>
   </tr>
+</table>
+
+### Light Mode
+
+<table>
   <tr>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/queue.jpg">
-        <img src="assets/screenshots/queue.jpg" width="200" alt="Playback queue">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/light/album-flower-boy.png">
+        <img src="assets/screenshots/light/album-flower-boy.png" width="200" alt="Flower Boy album page in Light Mode">
       </a>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/artist.jpg">
-        <img src="assets/screenshots/artist.jpg" width="200" alt="Artist screen">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/light/artist-mac-miller.png">
+        <img src="assets/screenshots/light/artist-mac-miller.png" width="200" alt="Mac Miller artist page in Light Mode">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/light/player-enough.png">
+        <img src="assets/screenshots/light/player-enough.png" width="200" alt="Enough in Now Playing with enlarged artwork in Light Mode">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raw.githubusercontent.com/HazemAM/mezzo-tracker/main/assets/screenshots/light/search-aw.png">
+        <img src="assets/screenshots/light/search-aw.png" width="200" alt="Universal Search for aw with the keyboard visible in Light Mode">
       </a>
     </td>
   </tr>
