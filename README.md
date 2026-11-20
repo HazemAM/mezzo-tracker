@@ -188,6 +188,9 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - **Library browsing**
   - Browse your library by albums, artists, songs, playlists, and genres, with multiple sort options
   - Filter by favorites with search and shuffle support
+- **Library pins**
+  - Pin albums, artists, and playlists to your Library
+  - Reorder pinned items by dragging and dropping
 - **Storage management**
   - View breakdown of storage usage and clear cache from Settings
   - Browse downloaded music or remove all downloads
@@ -206,6 +209,7 @@ Currently available for iPhone, with support for Navidrome and other Subsonic-co
 - [ ] Spotlight integration
 - [ ] Recommendations
 
+- [x] Library pins
 - [x] Artwork themes
 - [x] Storage management
 - [x] Visualizer
